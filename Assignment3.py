@@ -111,16 +111,16 @@ while (True):
             for i in Periodic_Table.keys():
                 checkperiodic_table(Periodic_Table[i], 2)
         elif choice == 2:
-            for i in periodic_table.keys():
+            for i in Periodic_table.keys():
                 checkperiodic_table(Periodic_Table[i], 3)
         elif choice == 3:
-            for i in periodic_table.keys():
+            for i in Periodic_table.keys():
                 checkperiodic_table(Periodic_Table[i], 4)
         elif choice == 4:
-            for i in periodic_table.keys():
+            for i in Periodic_table.keys():
                 checkperiodic_table(Periodic_Table[i], 5)
         elif choice == 5:
-            for i in periodic_table.keys():
+            for i in Periodic_table.keys():
                 checkperiodic_table(Periodic_Table[i], 6)
 
     elif option == 3:
